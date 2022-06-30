@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "//uPDVTZuzcItPIH4aPttJd/mdEE1cJgs3tZCW5wsm9tVskY61FJ1JOKfgKMP/q5QsEWYleSdQyne5GjZxzjgQ==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\tmp\\mailAppMS_Graph\\mailAppMS_Graph\\mailAppMS_Graph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\levon\\.nuget\\packages\\microsoft.identity.client\\4.45.0\\microsoft.identity.client.4.45.0.nupkg.sha512",
+    "C:\\Users\\levon\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.18.0\\microsoft.identitymodel.abstractions.6.18.0.nupkg.sha512",
+    "C:\\Users\\levon\\.nuget\\packages\\rebex.common\\6.0.8181\\rebex.common.6.0.8181.nupkg.sha512",
+    "C:\\Users\\levon\\.nuget\\packages\\rebex.imap\\6.0.8181\\rebex.imap.6.0.8181.nupkg.sha512",
+    "C:\\Users\\levon\\.nuget\\packages\\rebex.mail\\6.0.8181\\rebex.mail.6.0.8181.nupkg.sha512",
+    "C:\\Users\\levon\\.nuget\\packages\\rebex.networking\\6.0.8181\\rebex.networking.6.0.8181.nupkg.sha512"
+  ],
+  "logs": []
+}
