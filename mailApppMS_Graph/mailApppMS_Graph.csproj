@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.45.0" />
+    <PackageReference Include="Rebex.Common" Version="6.0.8181" />
+    <PackageReference Include="Rebex.Imap" Version="6.0.8181" />
+    <PackageReference Include="Rebex.Mail" Version="6.0.8181" />
+    <PackageReference Include="Rebex.Networking" Version="6.0.8181" />
+  </ItemGroup>
+
+</Project>
